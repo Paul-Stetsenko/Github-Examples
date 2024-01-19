@@ -7,9 +7,9 @@ A repo containing GitHub for programmatic examples
 
 ### HTTPS
 
-```md
+```sh
 git clone
-```md
+```
 
 # test
 
